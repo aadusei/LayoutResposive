@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    background-color: #5BA3D6;
+    color: white: ;
+}
+
+form {
+	max-width: 700px;
+	color:white;
+}
+
+#left, #middle, #rights {
+    height: : 500px;
+    float: left;
+    width: 30%;
+    font-family: Arial;
+    font-size: .5em;
+    padding: .5em;
+}
+
+/*#middle {
+    height: 500px;
+    width: 30%;
+    font-family: Arial;
+    font-size: .5em;
+    float:left;
+    padding: .5em;
+}
+
+#rights {
+    height: 500px;
+    float: right;
+    width: 30%;
+    font-family: Arial;
+    font-size: .5em;
+    padding:.5em;
+
+}*/
+
+input,textarea {
+
+    border: 1px solid white;
+    color: #2A6B9A;
+}
+
+input {
+    Height: 25px;
+    width: 175px;
+    font-style: italic;
+    padding: 5px;
+}
+
+textarea {
+    height: 75px;
+    width: 175px;
+}
+
+select {
+    -webkit-border-radius: 0px;
+    width: 175px;
+    padding: 5px;
+    color: white;
+}
